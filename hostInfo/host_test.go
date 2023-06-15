@@ -10,7 +10,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func TestGetInactiveHostnames(t *testing.T) {
+func Test_GetInactiveHostnames(t *testing.T) {
 
 	os.Setenv("THRESHOLD", "")
 	threshold := 1
