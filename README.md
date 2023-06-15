@@ -21,7 +21,7 @@ To install and run the MTA Hosting Optimizer locally, follow these steps:
 
 2. Navigate to the project directory:
     ``` 
-    cd mta-hosting-optimizer
+    cd mta-hosting
     ```
 
 3. Set up the required environment variables:
